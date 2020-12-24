@@ -2,5 +2,5 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning.
 ## Contents
 - ### Machine Learning
-        - [Predicting Housing Prices](https://github.com/truongminhphung/Advance-House-Price-Prediction/blob/main/Building_model.ipynb): Based on house features, apply some statistical tools to analyze data,preprocess data, visualize data. Build the machine learning model that can predict the price of the house.
+	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
         
