@@ -3,6 +3,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Contents
 - ### Machine Learning
 	- [Predicting Boston Housing Prices](https://github.com/truongminhphung/Advance-House-Price-Prediction): Based on house features, apply some statistical tools to analyze data,preprocess data, visualize data. Build the machine learning model that can predict the price of the house.
+	- [Predicting housing price in Bengaluru](https://github.com/truongminhphung/Predict_housing_Bangalore/blob/master/model/Real%20Estate%20Price%20Prediction.ipynb): Based on features such as location, number of bhk, bath, total_sqft, ect. I'll build a model predicting the price of a specific house. I'll do feature engineering, feature selection, model building to demonstrate the data science process
  
 
 - ### Micro Projects:
